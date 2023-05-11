@@ -1,1 +1,8 @@
-# TestCrew
+- You can run the cases from TestRunner class
+- We have 4 TCs.
+- 3 TCs for Validating the Subscription Packages – Type & Price and Currency for all Countries (SA / Kuwait and Baharin) 
+- 1 TC for the sign in but with invalid credentails
+- wehave 2 feature files one for the sign in and the other one for subscriptions
+- you can find the feature files, step definitions and TestRunners in the test/java
+- you can find the pages, base class and properties under the main/java/stc package
+- we use the default reporting for cucumber (you can find reports under the target/reports folder)
